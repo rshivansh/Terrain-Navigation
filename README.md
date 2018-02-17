@@ -46,3 +46,11 @@ This section remains same as the section 2 of Task -1, but the mazes now become 
 The output will be as follows:
 
 ![Maze](/maze7.jpeg)
+
+### Section -2
+
+In this section we are representing locations to be traversed as coloured markers that are scattered
+randomly around the mazes.
+We can have maze images such as these:
+
+![Maze](/maze8.jpeg)
