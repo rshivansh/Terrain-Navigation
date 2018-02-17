@@ -30,3 +30,7 @@ In this section, you are supposed to find out how to represent a full maze in fo
 An undirected graph is a set of objects (called vertices or nodes) that are connected together, where all the edges are bidirectional. An undirected graph is sometimes called an undirected network. In contrast, a graph where the edges point towards specified directions is called a directed graph.
 
 ![Maze](/maze4.jpeg)
+
+The output of this task shall be as follows :
+
+![Maze](/maze5.jpeg)
