@@ -34,3 +34,15 @@ An undirected graph is a set of objects (called vertices or nodes) that are conn
 The output of this task shall be as follows :
 
 ![Maze](/maze5.jpeg)
+
+## Task -2
+
+### Section -1
+
+This section remains same as the section 2 of Task -1, but the mazes now become circular .
+
+![Maze](/maze6.jpeg)
+
+The output will be as follows:
+
+![Maze](/maze7.jpeg)
