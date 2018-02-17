@@ -10,6 +10,5 @@ Navigating through a pre-explored or unexplored area is very much like navigatin
 
 In this section we have mazes of the following type:
 
-![Maze](/maze1.png)
-![Maze](/maze2.png)
-![Maze](/maze3.png)
+![Maze](/maze1.jpeg)
+
