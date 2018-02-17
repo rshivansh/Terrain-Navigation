@@ -15,3 +15,10 @@ In this section we have mazes of the following type:
 Cells are numbered in a maze using a coordinate system as given below:
 
 ![Maze](/maze2.jpeg)
+
+Given such a maze, the problem is to navigate from a START location in the maze to an END
+location, where the coordinates of START and END have been given.
+
+The expected output should be as follows :
+
+![Maze](/maze3.jpeg)
