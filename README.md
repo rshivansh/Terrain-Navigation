@@ -12,3 +12,6 @@ In this section we have mazes of the following type:
 
 ![Maze](/maze1.jpeg)
 
+Cells are numbered in a maze using a coordinate system as given below:
+
+![Maze](/maze2.jpeg)
